@@ -2,5 +2,6 @@ public class MyFirstJavaProgram {
 
     public static void main(String []args) {
       System.out.println("Привет мир!"); // Вывод сообщения на экран
+      // это я играюсь с гитом =)
     }
 }
